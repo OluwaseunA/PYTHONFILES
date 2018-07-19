@@ -1,0 +1,3 @@
+print('Seun')
+
+input()
